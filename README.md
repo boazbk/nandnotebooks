@@ -4,6 +4,8 @@ This is a collection of Jupyter Notebooks for the NAND family of programming lan
 
 You can launch all the notebooks live using [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master) (this service is in beta status and sometimes takes a long time).
 
+However, if you want to play with them more extensively you'd probably want to download them to your own machine. You can do so by _(1)_ clone/download (using ![this button](githubbutton.png) ) all of these to a local folder,   _(2)_ install [anaconda](https://www.anaconda.com/download/), and then install [Jupyter Lab](https://github.com/jupyterlab/jupyterlab) by opening up a command prompt (or maybe "anaconda prompt", in windows) and type `conda install -c conda-forge jupyterlab`. You then change directory to the folder containing these notebooks and type `jupyter lab`.  For visualizing circuits you will need to also install  [graphviz](https://graphviz.gitlab.io/download/), which I believe can be done by typing `conda install -c anaconda graphviz `
+
 The main notebooks contained in this repository are:
 
 1. [The NAND Programming Language](https://github.com/boazbk/nandnotebooks/blob/master/NAND%20programming%20language.ipynb)  (   [live version on binder](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=NAND%20programming%20language.ipynb): Definition of the NAND programming language, relation to Boolean circuits, syntactic sugar, computing every function, and representing it as list of triples
