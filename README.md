@@ -8,20 +8,20 @@ However, if you want to play with them more extensively you'd probably want to d
 
 The main notebooks contained in this repository are:
 
-1. [The NAND Programming Language](https://github.com/boazbk/nandnotebooks/blob/master/NAND%20programming%20language.ipynb)  (   [live version on binder](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=NAND%20programming%20language.ipynb): Definition of the NAND programming language, relation to Boolean circuits, syntactic sugar, computing every function, and representing it as list of triples
+1. [The NAND Programming Language](https://github.com/boazbk/nandnotebooks/blob/master/NAND%20programming%20language.ipynb)  (   [live version on binder](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=NAND%20programming%20language.ipynb) [version on google collab](https://colab.research.google.com/github/boazbk/nandnotebooks/blob/master/NAND%20programming%20language.ipynb) ): Definition of the NAND programming language, relation to Boolean circuits, syntactic sugar, computing every function, and representing it as list of triples
 
 
 
-3. [Blog post about the course](https://github.com/boazbk/nandnotebooks/blob/master/blog.ipynb) ([live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=blog.ipynb) ) : giving a high level overview of the main results in the course.
+3. [Blog post about the course](https://github.com/boazbk/nandnotebooks/blob/master/blog.ipynb) ([live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=blog.ipynb) [version on google collab](https://colab.research.google.com/github/boazbk/nandnotebooks/blob/master/blog.ipynb) ) : High level overview of the main results in the course.
 
-3. [NAND++ programming language](https://github.com/boazbk/nandnotebooks/blob/master/NANDpp_language.ipynb) ( [live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=NANDpp_language.ipynb) ): an overview of the NAND++ programming lanaguage.
-
-
+3. [NAND++ programming language](https://github.com/boazbk/nandnotebooks/blob/master/NANDpp_language.ipynb) ( [live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=NANDpp_language.ipynb) [version on google collab](https://colab.research.google.com/github/boazbk/nandnotebooks/blob/master/NANDpp_language.ipynb) ): Overview of the NAND++ programming lanaguage.
 
 
 
-4. [The Cook Levin Theorem](https://github.com/boazbk/nandnotebooks/blob/master/Cook_Levin.ipynb) ([live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=Cook_Levin.ipynb)  ): overview of the Cook Levin Theorem.
 
-5. [Lambda calculus](https://github.com/boazbk/nandnotebooks/blob/master/lambda.ipynb)   ( [live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=lambda.ipynb) ): some notes on the lambda calculus and the Y combinator. (In somewhat incomplete state.)
+
+4. [The Cook Levin Theorem](https://github.com/boazbk/nandnotebooks/blob/master/Cook_Levin.ipynb) ([live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=Cook_Levin.ipynb) [version on google collab](https://colab.research.google.com/github/boazbk/nandnotebooks/blob/master/Cook_Levin.ipynb)  ): Overview of the Cook Levin Theorem.
+
+5. [Lambda calculus](https://github.com/boazbk/nandnotebooks/blob/master/lambda.ipynb)   ( [live version](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master?filepath=lambda.ipynb) [version on google collab](https://colab.research.google.com/github/boazbk/nandnotebooks/blob/master/lambda.ipynb) ): Some notes on the lambda calculus and the Y combinator.
 
 __Note:__ As of Summer 2018 I am changing a bit the syntax of the languages, and hence some notebooks use the older syntax `foo := bar NAND blah` and some use the newer syntax `foo = NAND(bar,blah)`
