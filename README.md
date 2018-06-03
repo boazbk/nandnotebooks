@@ -2,7 +2,7 @@
 
 This is a collection of Jupyter Notebooks for the NAND family of programming languages that accompany the upcoming book [Introduction to Theoretical Computer Science](http://introtcs.org).
 
-You can launch all the notebooks live using either [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master) or [Azure notebooks](https://notebooks.azure.com/boazbk/libraries/introtcs).
+You can launch all the notebooks live using either [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boazbk/nandnotebooks/master) or [Azure notebooks](https://notebooks.azure.com/boazbk/libraries/introtcs), see below for links to Google collaborative notebooks versions as well.
 
 However, if you want to play with them more extensively you'd probably want to download them to your own machine. You can do so by _(1)_ clone/download (using the ![this button](githubbutton.png) button on the top right corner) all of the files to a local folder,   _(2)_ install [anaconda](https://www.anaconda.com/download/), and then install [Jupyter Lab](https://github.com/jupyterlab/jupyterlab) by opening up a command prompt (or maybe "anaconda prompt", in windows) and type `conda install -c conda-forge jupyterlab`. You then change directory to the folder containing these notebooks and type `jupyter lab`.  For visualizing circuits you will need to also install  [graphviz](https://graphviz.gitlab.io/download/), which I believe can be done by typing `conda install -c anaconda graphviz `
 
